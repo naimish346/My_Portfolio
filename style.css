@@ -15,7 +15,7 @@ html {
 p {
   color: rgb(85, 85, 85);
 }
-a,
+a,a
 .btn {
   transition: all 300ms ease;
 }
